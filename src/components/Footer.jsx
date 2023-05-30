@@ -12,7 +12,7 @@ const Footer = () => {
       </span>
       <span className="footer">
         <a 
-          href='https://www.w3schools.com/howto/howto_css_style_hr.asp'
+          href='https://github.com/surajDahal007/React-Quiz-App'
           target='_blank'
           rel="noreferrer"
         >Source Code</a>
